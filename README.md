@@ -2,8 +2,11 @@
 
 ### Education
 Master of Science in Business Analytics
+
 California State University, East Bay, Hayward, California
+
 Bachelor of Technology, Applied Electronics and Instrumentation Engineering
+
 Biju Patnaik University of Technology, India
 
 ### Work Experience
